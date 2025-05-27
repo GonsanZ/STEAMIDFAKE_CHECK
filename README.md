@@ -1,0 +1,2 @@
+# STEAMIDFAKE_CHECK
+Verificador de STEAMID
